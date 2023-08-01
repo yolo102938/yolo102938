@@ -5,7 +5,7 @@
 #### Passionate about coding & networking.<br>
 #### Here to learn and contribute. 💻🚀<br>
 
-- 🔭 I’m currently working on advancing my skills in C/C++, Python, C#, and Java.
+- 🔭 I’m currently working on advancing my skills in: Python, C#, and Networking Protocols.
 - 🌱 I’m currently learning Operating Systems Internals.
 - 📫 How to reach me: ohad.saked@gmail.com
 - 😄 Pronouns: He/Him
