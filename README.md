@@ -1,21 +1,12 @@
 ### Hi there 👋<br>
-My name is Ohad Shaked.<br>
-I'm 17 years old.<br>
-Studying at Magshimim\Magshimim+.<br>
-Passionate about coding & networking.<br>
-Here to learn and contribute. 💻🚀<br>
+## My name is Ohad Shaked.<br>
+## I'm 17 years old.<br>
+## Studying at Magshimim\Magshimim+.<br>
+## Passionate about coding & networking.<br>
+## Here to learn and contribute. 💻🚀<br>
 
-<!--
-**yolo102938/yolo102938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on advancing my skills in C/C++, Python, C#, and Java.
+- 🌱 I’m currently learning Operating Systems Internals.
+- 📫 How to reach me: ohad.saked@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ About Myself: Besides coding, I'm proficient in both piano and flute!
