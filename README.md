@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Ohad Shaked.
+I'm 17 years old.
+Studying at Magshimim\Magshimim+.
+Passionate about coding & networking.
+Here to learn and contribute. 💻🚀
 
 <!--
 **yolo102938/yolo102938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
