@@ -8,5 +8,5 @@
 - 🔭 I’m currently working on advancing my skills in: Python, C#, and Networking Protocols.
 - 🌱 I’m currently learning Operating Systems Internals.
 - 📫 How to reach me: ohad.saked@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ About Myself: Besides coding, I'm proficient in both piano and flute!
+- 🌐 Favorite programming language: C/C++
+- ⚡ About myself: Besides coding, I'm proficient in both piano and flute!
