@@ -1,6 +1,6 @@
 ## Hi there 👋<br>
 #### My name is Ohad Shaked.<br>
-#### I'm 17 years old.<br>
+#### I'm 18 years old.<br>
 #### Studying at Magshimim\Magshimim+.<br>
 #### Passionate about coding & networking.<br>
 #### Here to learn and contribute. 💻🚀<br>
